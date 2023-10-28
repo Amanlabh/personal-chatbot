@@ -1,5 +1,3 @@
-# personal-chatbot
-i've created a personal portfolio chatbot 
 # CHATBOT
 
 ## Table of Contents
